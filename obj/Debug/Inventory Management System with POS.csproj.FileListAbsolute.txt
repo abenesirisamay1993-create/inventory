@@ -1,0 +1,98 @@
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\Inventory Management System with POS.exe.config
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\Inventory Management System with POS.exe
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\Inventory Management System with POS.pdb
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\BouncyCastle.Crypto.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\BouncyCastle.Cryptography.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\Google.Protobuf.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\K4os.Compression.LZ4.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\K4os.Hash.xxHash.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\MySql.Data.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Buffers.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.IO.Pipelines.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Memory.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Numerics.Vectors.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\ZstdSharp.dll
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\BouncyCastle.Crypto.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\BouncyCastle.Cryptography.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\Google.Protobuf.pdb
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\Google.Protobuf.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\K4os.Compression.LZ4.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\K4os.Hash.xxHash.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\MySql.Data.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Buffers.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.IO.Pipelines.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Memory.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Numerics.Vectors.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\abenes_activity\Inventory Management System with POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventory Management System with POS.csproj.AssemblyReference.cache
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmAccounts.resources
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmCreateAccount.resources
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmLoginform.resources
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmMainform.resources
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmProducts.resources
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.Properties.Resources.resources
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventory Management System with POS.csproj.GenerateResource.cache
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventory Management System with POS.csproj.CoreCompileInputs.cache
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventor.146847EA.Up2Date
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventory Management System with POS.exe
+C:\abenes_activity\Inventory Management System with POS\obj\Debug\Inventory Management System with POS.pdb
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory Management System with POS.csproj.AssemblyReference.cache
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmAccounts.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmCreateAccount.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmLoginform.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmMainform.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmProducts.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.Properties.Resources.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory Management System with POS.csproj.GenerateResource.cache
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory Management System with POS.csproj.CoreCompileInputs.cache
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\Inventory Management System with POS.exe.config
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\Inventory Management System with POS.exe
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\Inventory Management System with POS.pdb
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\BouncyCastle.Crypto.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\BouncyCastle.Cryptography.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\Google.Protobuf.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\K4os.Compression.LZ4.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\K4os.Hash.xxHash.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\MySql.Data.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Buffers.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.IO.Pipelines.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Memory.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Numerics.Vectors.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\ZstdSharp.dll
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\BouncyCastle.Crypto.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\BouncyCastle.Cryptography.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\Google.Protobuf.pdb
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\Google.Protobuf.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\K4os.Compression.LZ4.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\K4os.Hash.xxHash.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\MySql.Data.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Buffers.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.IO.Pipelines.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Memory.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Numerics.Vectors.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventor.146847EA.Up2Date
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory Management System with POS.exe
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory Management System with POS.pdb
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmPOS.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmmanageproduct.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmmanagestock.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmExpiredItems.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmDamage.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmManageReports.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmDashboard.resources
+C:\abenes_POS Inventory\Inventory Management System with POS\obj\Debug\Inventory_Management_System_with_POS.frmHome.resources
